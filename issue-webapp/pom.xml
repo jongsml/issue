@@ -54,7 +54,7 @@
 				<sonar.scm.provider>git</sonar.scm.provider>
 				<!-- Optional URL to server. Default value is http://localhost:9000 -->
 				<sonar.host.url>
-					http://localhost:9000
+					http://192.168.1.60:9000
 				</sonar.host.url>
 
 			</properties>
